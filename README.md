@@ -1,4 +1,4 @@
-#Hi, I’m Juan Pablo!
+# Hi, I’m Juan Pablo!
 
 - 🗺️ I'm from Austin, TX and have three amazing pet ducks.
 - 👀 I’m studying Information Systems (IS) at Carnegie Mellon University!
