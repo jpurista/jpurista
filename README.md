@@ -20,12 +20,12 @@ you can find me on:
   
   <br>
   
-💞️ I’m looking to collaborate on innovative projects in the area of fintech and edtech
+I’m looking to collaborate on innovative projects in the area of fintech and edtech
 
   <br>
   <br>
   
 what I'm listening to on Spotify:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jpurista&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jpurista&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/jpurista)
 </div>
