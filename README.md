@@ -1,8 +1,7 @@
 # Hi, I’m Juan Pablo!
 
-you can find me on:
-
-[linkedin](https://linkedin.com/in/juanpablou) - [website](https://juanpablou.com/about) - [instagram](https://instagram.com/juanpab_u)
+| you can find me on: |
+| [linkedin](https://linkedin.com/in/juanpablou) - [website](https://juanpablou.com/about) - [instagram](https://instagram.com/juanpab_u) |
 
 ## Here's some stuff about me:
 
