@@ -2,17 +2,16 @@
 
 # Hi, I’m Juan Pablo!
 
-| you can find me on: |
-| [linkedin](https://linkedin.com/in/juanpablou) - [website](https://juanpablou.com/about) - [instagram](https://instagram.com/juanpab_u) |
+you can find me on:
+[linkedin](https://linkedin.com/in/juanpablou) - [website](https://juanpablou.com/about) - [instagram](https://instagram.com/juanpab_u)
+  
 <hr>
 <br>
-## Here's some stuff about me:
+  
 
 👀 I’m studying Information Systems (IS) at Carnegie Mellon University!
 🌱 I’m currently learning the basics of CS, business, and design.
 💞️ I’m looking to collaborate on innovative projects in the area of fintech and edtech
-
-## some fun stuff!
 
 what I'm listening to on Spotify:
 
