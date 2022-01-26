@@ -3,6 +3,7 @@
 # Hi, I’m Juan Pablo!
 
 you can find me on:
+  <br>
 [linkedin](https://linkedin.com/in/juanpablou) - [website](https://juanpablou.com/about) - [instagram](https://instagram.com/juanpab_u)
   
 <hr>
