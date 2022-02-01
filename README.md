@@ -6,7 +6,7 @@ you can find me on:
   
   <br>
   
-[LinkedIn](https://linkedin.com/in/juanpablou) - [Website](https://juanpablou.com/about) - [Instagram](https://instagram.com/juanpab_u)
+[LinkedIn](https://linkedin.com/in/juanpablou) - [Website](https://juanpab.com/about) - [Instagram](https://instagram.com/juanpab_u)
   
 <hr>
 <br>
