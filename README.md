@@ -6,21 +6,21 @@ you can find me on:
   
   <br>
   
-[LinkedIn](https://linkedin.com/in/juanpablou) - [Website](https://juanpab.com/about) - [Instagram](https://instagram.com/juanpab_u)
+[LinkedIn](https://linkedin.com/in/juanpablou) - [Portfolio](https://juanpab.com/about) - [Instagram](https://instagram.com/juanpab_u)
   
 <hr>
 <br>
   
 
-👀 I’m studying Information Systems (IS) at Carnegie Mellon University!
+ I’m studying Information Systems (IS) at Carnegie Mellon University!
   
   <br>
   
-🌱 I’m currently learning the basics of CS, business, and design.
+ I’m currently learning about CS, business, and design.
   
   <br>
   
-I’m looking to collaborate on innovative projects in the area of fintech and edtech
+I’m looking to collaborate on innovative projects in the area of fintech and edtech.
 
   <br>
   <br>
